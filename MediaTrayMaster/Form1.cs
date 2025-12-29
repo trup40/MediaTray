@@ -1,4 +1,4 @@
-namespace MediaTray
+namespace MediaTrayMaster
 {
     public partial class Form1 : Form
     {

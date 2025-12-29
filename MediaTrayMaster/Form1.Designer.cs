@@ -1,4 +1,4 @@
-﻿namespace MediaTray
+﻿namespace MediaTrayMaster
 {
     partial class Form1
     {
