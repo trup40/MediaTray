@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-  <img src="MediaTrayMaster/app.png" alt="Media Tray Master Logo" width="128">
+  <img src="app.png" alt="Media Tray Master Logo" width="128">
 
   # Media Tray Master
   ### Professional Play Controlling Tool
@@ -96,7 +96,7 @@
 
 * **Language:** C#
 * **Framework:** .NET 7.0 / 8.0+ (Compatible with Windows 10/11)
-* **IDE:** Visual Studio 2022
+* **IDE:** Visual Studio 2026
 * **Graphics:** System.Drawing.Common (GDI+)
 
 ### ⚖️ License
@@ -106,6 +106,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ### 🦅 Contact
 
 **Developer:** Eagle
+
 **Email:** trup40@protonmail.com
 
 ---
