@@ -49,7 +49,7 @@
 ### 📥 Installation
 
 1.  Go to the **[Releases](../../releases)** page.
-2.  Download the latest `MediaTrayMaster.exe`.
+2.  Download the latest `MediaTrayMaster_XXXX.zip`. Full: self-contained package. Slim: requires .NET 7.0+ installed.
 3.  Run it! (Optionally, add a shortcut to `shell:startup` to run on boot).
 
 ---
@@ -87,7 +87,7 @@
 ### 📥 Kurulum
 
 1.  **[Releases](../../releases)** sayfasına gidin.
-2.  En son sürüm `MediaTrayMaster.exe` dosyasını indirin.
+2.  En son sürüm `MediaTrayMaster_XXXX.zip` dosyasını indirin. Full: her şeyi içinde paket. Slim: .NET 7.0+ yüklü olmalı.
 3.  Çalıştırın! (İsterseniz başlangıçta çalışması için `shell:startup` klasörüne kısayol atabilirsiniz).
 
 ---
